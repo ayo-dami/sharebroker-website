@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/H:/NetBeansProjects/Sharebroker/src/sharebroker/comp_details.xsd" uri="xml-resources/jaxb/sharebroker/comp_details.xsd"/>
+    <system systemId="file:/E:/Uni%20year%203/COMP30231%20Service-Centric%20&amp;%20Cloud%20Comp%20201/Sharebroker/src/sharebroker/comp_details.xsd" uri="xml-resources/jaxb/requestShares/comp_details.xsd"/>
+</catalog>

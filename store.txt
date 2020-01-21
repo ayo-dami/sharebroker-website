@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<selling_shares xmlns="http://xml.netbeans.org/schema/comp_details">
+    <share_collection share_price="999">
+        <companyName>Google</companyName>
+        <companySymbol>G</companySymbol>
+        <number>0</number>
+    </share_collection>
+    <share_collection share_price="888">
+        <companyName>Apple</companyName>
+        <companySymbol>A</companySymbol>
+        <number>1</number>
+    </share_collection>
+</selling_shares>

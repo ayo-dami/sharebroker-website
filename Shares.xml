@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Shares xmlns="http://xml.netbeans.org/schema/comp_details">
+    <Shares share_price="100">
+        <companyName>Google</companyName>
+        <companySymbol>GOOG</companySymbol>
+        <number>0</number>
+    </Shares>
+</Shares>
